@@ -1,1 +1,72 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #eee;
+}
+#Titulo-Franco{
+    margin-bottom:auto;
+}
+.Titulo-pagina-principal{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    
+    
+}
+.logoUTNFRC{
+    width: 220px;
+    margin-right: -50px;
+}
+h5{
+    margin: 0%;
+}
+#sobre_mi{
+    background-color:rgb(255, 255, 255);
+}
+.img-fluid{
+    width: 350px;
+}
+
+.sk-img{
+    width: 200px;
+}
+.sk-img-type{
+    width: 200px;
+}
+.sk-img-hc{
+    width: 400px;
+}
+.sk-img-a{
+    width: 400px;
+    margin-left: -85px;
+}
+.sk-img-p{
+    width: 450px;
+    margin-left: -100px;
+}
+.sk-img-fast{
+    width: 450px;
+    margin-left: -80px;
+}
+.sk-img-fl{
+    width: 350px;
+}
+
+
+#educacion{
+    background-color: rgb(255, 255, 255);
+}
+
+#centrar{
+    text-align: center;
+}
+.texto{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.icono{
+    width: 40px;
+}
+
+/*.Titulo-pagina-principal{
+    background-image: url("./assets/canvas.jepg");background-repeat: no-repeat;background-size: cover;
+}*/
